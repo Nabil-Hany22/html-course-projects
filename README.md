@@ -25,9 +25,9 @@ Each project applies the concepts learned in the course and helps in understandi
 
 | Folder         | Description |
 | -------------- | ----------- |
-| `CHALLENGE #1` | Includes `index.html`, `index-ar.html`, `courses.html`, `blog.html`, `contact-us.html`, and `img/` folder for images |
-| `CHALLENGE #2` | Reserved for next project |
-| `CHALLENGE #3` | Reserved for next project |
+| `CHALLENGE#1` | Includes `index.html`, `index-ar.html`, `courses.html`, `blog.html`, `contact-us.html`, and `img/` folder for images |
+| `CHALLENGE#2` | Reserved for next project |
+| `CHALLENGE#3` | Reserved for next project |
 
 ---
 
@@ -62,20 +62,22 @@ Each project applies the concepts learned in the course and helps in understandi
 
 ### 🔹 Challenge #1 – Multi-page Website
 Homepage (English version):  
-![Challenge 1 Preview](screenshots/challenge1-en.png)
+![Challenge 1 Preview](preview/first-project english version.png)
 
 Homepage (Arabic version):  
-![Challenge 1 Preview AR](screenshots/challenge1-ar.png)
+![Challenge 1 Preview AR](preview/first-project arabic version.png)
 
 ---
 
 ### 🔹 Challenge #2 – (Coming soon)
-📷 *(screenshot will be added later)*  
+Homepage :  
+![Challenge 2 Preview](preview/second project.png)
 
 ---
 
 ### 🔹 Challenge #3 – (Coming soon)
-📷 *(screenshot will be added later)*  
+Homepage :  
+![Challenge 3 Preview](preview/third project.png)
 
 ---
 
