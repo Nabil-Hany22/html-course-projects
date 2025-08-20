@@ -86,3 +86,4 @@ Just open any `.html` file in your browser (e.g., `index.html`) and navigate bet
 ---
 
 👨‍💻 Created by **Nabil** during the HTML course practice.
+"# html-course-projects" 
