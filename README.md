@@ -62,22 +62,22 @@ Each project applies the concepts learned in the course and helps in understandi
 
 ### 🔹 Challenge #1 – Multi-page Website
 Homepage (English version):  
-![Challenge 1 Preview](preview/first-project english version.png)
+![Challenge 1 Preview](preview/first-project-english-version.png)
 
 Homepage (Arabic version):  
-![Challenge 1 Preview AR](preview/first-project arabic version.png)
+![Challenge 1 Preview AR](preview/first-project-arabic-version.png)
 
 ---
 
 ### 🔹 Challenge #2 – (Coming soon)
 Homepage :  
-![Challenge 2 Preview](preview/second project.png)
+![Challenge 2 Preview](preview/second-project.png)
 
 ---
 
 ### 🔹 Challenge #3 – (Coming soon)
 Homepage :  
-![Challenge 3 Preview](preview/third project.png)
+![Challenge 3 Preview](preview/third-project.png)
 
 ---
 
