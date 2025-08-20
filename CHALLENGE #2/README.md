@@ -34,7 +34,7 @@ The page highlights the course price, main topics covered, and includes images, 
 ## 📸 Project Preview
 
 ### Main Page Screenshot:
-![Project Screenshot](images/main-img.jpg)
+![Project Screenshot](preview/second-project.png)
 
 ---
 
