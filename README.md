@@ -65,7 +65,7 @@ Homepage (English version):
 ![Challenge 1 Preview ER](preview/first-project-english-version.png)
 
 Homepage (Arabic version):  
-![Challenge 1 Preview AR](preview/first-project-arabic-version.png)
+![Challenge 1 Preview AR](/preview/first-project-arabic-version.png)
 
 ---
 
